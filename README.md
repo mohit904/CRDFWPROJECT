@@ -1,5 +1,5 @@
 # Create , Delete and Read Data 
-Project to Create , Read and Delete data using Python based on Key value pairs.
+Project to Create , Read and Delete data  based on Key value pairs.
 
 The Assignment has been attempted with Python and JavaScript
 
